@@ -1,12 +1,8 @@
-# DATACAMP
+# DATACAMP--Electric Moped
 
-#Electric Moped
+# Using Python to perform the tasks required.
 
-
-#Using Python to perform the tasks required.
-
-
-#Background
+# Background
 
 #EMO is a manufacturer of electric motorcycles.
 
